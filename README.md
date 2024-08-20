@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20깃허브%20&height=200&fontSize=50&fontColor=FF00FF&textBg=true)
 
 # Hi there 👋
 ## Hi there 👋
